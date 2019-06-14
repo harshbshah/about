@@ -1,2 +1,2 @@
 # About Harsh
-## this repo will represnt Harsh's work
+## this repo will represent Harsh's work
